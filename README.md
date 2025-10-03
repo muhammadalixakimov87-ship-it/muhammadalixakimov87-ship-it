@@ -8,10 +8,11 @@
   </h3>
   
     
-      <a>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"  width="100"/>
+      
 
-      </a>
+        <a href="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="">
+        </a>
      
         
         <a><img src="" width="100"/>
