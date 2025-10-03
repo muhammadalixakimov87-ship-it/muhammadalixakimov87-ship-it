@@ -7,7 +7,7 @@
   </h3>
   <ol>
     <li>
-      <img src="https://www.shutterstock.com/ru/search/html-5">
+      <img src="https://img.freepik.com/premium-vector/html-5-minimal-flat-logo-design_582637-694.jpg?w=360">
         
 
     </li>
