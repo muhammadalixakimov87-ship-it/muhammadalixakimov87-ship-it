@@ -21,7 +21,7 @@
     </li>
     <li>
      <a>
-    <img src="" alt="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="">
     </a>
     </li>
   </ol>
