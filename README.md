@@ -7,15 +7,22 @@
   </h3>
   <ol>
     <li>
-      <img src="https://img.freepik.com/premium-vector/html-5-minimal-flat-logo-design_582637-694.jpg?w=360">
+      <a>
+         <img src="https://img.freepik.com/premium-vector/html-5-minimal-flat-logo-design_582637-694.jpg?w=360">
+      </a>
+     
         
 
     </li>
     <li>
-    
+    <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+    </a>
     </li>
     <li>
-    
+     <a>
+    <img src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png">
+    </a>
     </li>
   </ol>
   
