@@ -7,9 +7,9 @@
   </h3>
   <ol>
     <li>
-      <a href='https://kinsta.com/blog/html-vs-html5'/>
+      <img src='https://kinsta.com/blog/html-vs-html5/'>
         
-</a>
+
     </li>
     <li>
     
