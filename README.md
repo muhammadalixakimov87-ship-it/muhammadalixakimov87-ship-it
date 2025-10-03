@@ -9,14 +9,16 @@
   
     
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="300"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s"  width="100"/>
+
       </a>
      
         
-        <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width="300"/></a>
+        <a><img src="" width="100"/>
+</a>
         
 
-  
+
 
     
     
