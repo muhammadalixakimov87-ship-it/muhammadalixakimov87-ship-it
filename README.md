@@ -16,12 +16,12 @@
     </li>
     <li>
     <a>
-    <img src="https://skillforge.com/courses/javascript-training/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="">
     </a>
     </li>
     <li>
      <a>
-     <img src="https://img.freepik.com/premium-vector/html-5-minimal-flat-logo-design_582637-694.jpg?w=360">
+    <img src="" alt="">
     </a>
     </li>
   </ol>
