@@ -27,11 +27,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,ps,exel&perline=14" width="100%" />
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,ps&perline=9"/>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="48"/>
+  
 </p>
 
 <div align="center">
