@@ -3,9 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Hi+thie;I+am Asadbek;Ro'ziboyev;Umirbek+o'g'li" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
+</p>
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<p align="center">
+
   
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
