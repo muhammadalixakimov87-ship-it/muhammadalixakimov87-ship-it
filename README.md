@@ -8,7 +8,7 @@
   
 <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,ps,Exel&perline=9"/>
 
-
+</p>
 
   
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
