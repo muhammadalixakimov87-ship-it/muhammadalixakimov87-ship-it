@@ -4,7 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,ps,Exel&perline=9"/>
 
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="50"/>
+</p>
 
   
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
