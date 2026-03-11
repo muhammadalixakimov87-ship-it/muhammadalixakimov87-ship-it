@@ -7,12 +7,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,ps,Exel&perline=9"/>
 
-<br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="50"/>
-</p>
 
   
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
