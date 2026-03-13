@@ -59,14 +59,10 @@
 <img src="https://komarev.com/ghpvc/?username=muhammadalixakimov87-ship-it&color=blue"/>
 </p>
 
----
 
-## 🐍 Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadalixakimov87-ship-it/muhammadalixakimov87-ship-it/output/snake.svg"/>
-</p>
 
----
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=footer&text=Thanks%20for%20visiting%20HUMOYUN&fontSize=40)
