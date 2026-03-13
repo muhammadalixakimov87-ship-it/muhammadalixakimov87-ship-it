@@ -33,7 +33,6 @@
   <a href="https://www.linkedin.com/in/humoyun-jumanazarov-3b8aa9390" target="_blank" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
-  
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://m-ibragimov.netlify.app/" target="_blank" title="Portfolio">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50" alt="Portfolio"/>
