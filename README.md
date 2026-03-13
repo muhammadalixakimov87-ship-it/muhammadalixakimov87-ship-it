@@ -20,7 +20,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=HUMOYUN+Developer;Python+Coder;Frontend+Developer"/>
 </p>
+## 🧠 Skills
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,nodejs&perline=8"/>
+</p>
 
 
 
@@ -47,11 +51,7 @@
 
 ---
 
-## 🧠 Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,nodejs&perline=8"/>
-</p>
 
 ---
 
