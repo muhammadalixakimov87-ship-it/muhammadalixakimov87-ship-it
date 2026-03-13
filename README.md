@@ -34,7 +34,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://muhammadalixakimov87-ship-it.github.io/PORTFOLIO/" target="_blank" title="Portfolio">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50" alt="Portfolio"/>
+    <img src="favicon.svg" width="50" height="50" alt="Portfolio"/>
   </a>
 </p>
 
