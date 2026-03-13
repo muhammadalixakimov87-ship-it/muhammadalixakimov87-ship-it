@@ -23,15 +23,11 @@
 <img src="https://raw.githubusercontent.com/muhammadalixakimov87-ship-it/muhammadalixakimov87-ship-it/output/snake.svg"/>
 </p>
 
----
 
-## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadalixakimov87-ship-it&theme=tokyonight&no-frame=true&column=7"/>
-</p>
 
----
+
+
 
 ## ⚡ GitHub Stats
 
