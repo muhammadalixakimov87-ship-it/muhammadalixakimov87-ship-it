@@ -1,3 +1,5 @@
+## Hi 👋 I'm Jumanazarov Humoyun
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000011,50:0066FF,100:000011&text=Welcome%20HUMOYUN's%20Profile&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=38"/>
 </p>
@@ -16,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=HUMOYUN+Developer;Python+Coder;Frontend+Developer;Future+Engineer;Open+Source+Lover"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=HUMOYUN+Developer;Python+Coder;Frontend+Developer"/>
 </p>
 
 
