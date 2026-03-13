@@ -25,7 +25,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,nodejs&perline=8"/>
 </p>
-<!-- Connect with me (profil ostida) -->
+👀 Connect with me 
 <p align="center">
   <a href="https://t.me/Humoyun_0929" target="_blank" title="Telegram">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram"/>
