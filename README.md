@@ -19,9 +19,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=HUMOYUN+Developer;Python+Coder;Frontend+Developer;Future+Engineer;Open+Source+Lover"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammadalixakimov87-ship-it/muhammadalixakimov87-ship-it/output/snake.svg"/>
-</p>
+
 
 
 
