@@ -15,10 +15,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Frontend+Developmer;Al-xorazmiy+vorislari+O'quvchisi" />
 </p>
 
-## 👨‍💻  Mening sniflarim
+## 👨‍💻  Mening snifim
 
 
-- 8-sinf o'quvchilari
+- 8-sinf
 
 <h2 align="center">🛠 Tech Arsenal</h2>
 
