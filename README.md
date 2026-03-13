@@ -65,4 +65,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=footer&text=Thanks%20for%20visiting%20HUMOYUN&fontSize=40)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=footer&text=Thanks%20for%20visiting%20HUMOYUN's%20Profile&fontSize=40)
