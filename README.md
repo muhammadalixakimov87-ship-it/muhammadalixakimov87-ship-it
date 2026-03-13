@@ -25,7 +25,21 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,nodejs&perline=8"/>
 </p>
-
+<!-- Connect with me (profil ostida) -->
+<p align="center">
+  <a href="https://t.me/Humoyun_0929" target="_blank" title="Telegram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/humoyun-jumanazarov-3b8aa9390" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/muhammadalixakimov87-ship-it" target="_blank" title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" height="50" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://m-ibragimov.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50" alt="Portfolio"/>
+  </a>
+</p>
 
 
 
