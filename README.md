@@ -23,7 +23,7 @@
 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,nodejs&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode&perline=8"/>
 </p>
 👀 Connect with me 
 <p align="center">
