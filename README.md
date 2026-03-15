@@ -57,7 +57,8 @@
 ## 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadalixakimov87-ship-it&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humoyun0929
+&theme=tokyo-night"/>
 </p>
 
 ---
@@ -69,7 +70,8 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=muhammadalixakimov87-ship-it&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Humoyun0929
+&color=blue"/>
 </p>
 
 
