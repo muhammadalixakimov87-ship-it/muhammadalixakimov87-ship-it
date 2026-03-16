@@ -47,9 +47,9 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadalixakimov87-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadalixakimov87-ship-it&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadalixakimov87-ship-it&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Humoyun0929&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Humoyun0929&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humoyun0929&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,8 +57,7 @@
 ## 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humoyun0929
-&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humoyun0929&theme=tokyo-night"/>
 </p>
 
 ---
@@ -70,8 +69,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Humoyun0929
-&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Humoyun0929&color=blue"/>
 </p>
 
 
