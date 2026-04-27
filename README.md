@@ -26,18 +26,22 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode&perline=8"/>
 </p>
 👀 Connect with me 
-<p align="center">
+
+<div style="display:flex; justify-content:center; align-items:center; gap:20px;">
+
   <a href="https://t.me/Humoyun_0929" target="_blank" title="Telegram">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+
   <a href="https://www.linkedin.com/in/humoyun-jumanazarov-3b8aa9390" target="_blank" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+
   <a href="https://humoyun0929.github.io/PORTFOLIO/" target="_blank" title="Portfolio">
     <img src="favicon.svg" width="50" height="50" alt="Portfolio"/>
   </a>
-</p>
 
+</div>
 
 
 
