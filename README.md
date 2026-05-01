@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=HUMOYUN+Developer;Python+Coder;Frontend+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Student+Al+Kharazimiy+Vorislari;Python+Coder;Frontend+Developer"/>
 </p>
 🧠 Skills
 
